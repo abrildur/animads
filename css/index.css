@@ -31,6 +31,6 @@ h2{
     margin-top: 10% !important ;
     text-align: center;
 }
-html{
-    background-image: url(img/studio5laptop.jpg) !important;
+body{
+    background-image: url(../img/studio5laptop.jpg) !important;
 }
