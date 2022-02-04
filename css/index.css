@@ -1,7 +1,36 @@
-img.icono{
-    width: 100px !important;
-    height: 100px !important;
+img#icono{
+    height: 80px;
+    max-height: 80px;
+    width: auto;
 }
 uk-navbar-container uk-navbar-transparent uk-light uk-navbar{
     height: 20% !important;
+}
+
+ul{
+    color: black;
+}
+li{
+    color: black !important;
+}
+a{
+    color: black !important;
+    font-size: 1rem !important;
+    padding: 25px;
+    margin-right: 20px !important;
+}
+a:hover{
+    background-color: thistle;
+    border-radius: 65%;
+    color: black !important;
+    font-size: 1rem !important;
+    padding: 25px;
+    margin-right: 20px !important;
+}
+h2{
+    margin-top: 10% !important ;
+    text-align: center;
+}
+html{
+    background-image: url(img/studio5laptop.jpg) !important;
 }
